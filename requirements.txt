@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain_groq  #to interact with groq
+chromadb
+streamlit
+pandas
+python-dotenv  #this is to load environment variables
+sentence-transformers
+langchain_huggingface #to interact with huggingface
